@@ -1,6 +1,6 @@
 # 📊 DSA Progress Prediction using Simple Linear Regression
 
-This project uses **Simple Linear Regression** to predict how many problems can be solved based on the number of days of practice.
+This project uses **Simple Linear Regression** to predict how many problems can be solved based on the number of days of practice. Now using it for a frontend project
 
 ---
 
